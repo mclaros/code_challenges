@@ -7,7 +7,7 @@ Solutions written in Ruby.
 ###Contents
 
  - [Codility](#codility)
- - [code eval](#code-eval)
+ - [code_eval](#code-eval)
  - Reddit/dailyprogrammer
  - [Misc.](#misc)
 
@@ -17,7 +17,7 @@ I really like the problems and interface Codility uses. The problems tend to be 
 
 TODO: Add my solutions from hard drive
 
-##[code eval](https://www.codeeval.com/)
+##[code_eval](https://www.codeeval.com/)
 
 These tend to be algorithmic problems. The input, usually not shown, is given in the form of a text file. Output is read through console logs (such as using `puts`).
 
