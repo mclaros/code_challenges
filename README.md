@@ -7,7 +7,7 @@ Solutions written in Ruby.
 ###Contents
 
  - [Codility](#codility)
- - [code_eval](#code-eval)
+ - [code_eval](#code_eval)
  - Reddit/dailyprogrammer
  - [Misc.](#misc)
 
