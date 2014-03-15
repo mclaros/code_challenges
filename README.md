@@ -11,7 +11,7 @@ Solutions written in Ruby.
  - Reddit/dailyprogrammer
  - [Misc.](#misc)
 
-##Codility
+##[Codility](https://codility.com/train/)
 
 I really like the problems and interface Codility uses. The problems tend to be more in-depth, with many test cases to consider. They also always enforce finding the most efficient solution, speed-wise and memory-wise.
 
@@ -25,7 +25,7 @@ Curretnly top 10% of all Ruby members!
 
 ###Hard
 
- - _[PARTIALLY SOLVED (97.5%)](/code_eval/string_search.rb)_ Find given substring within given string, without using built-in substr
+ - [_PARTIALLY SOLVED (97.5%)_](/code_eval/string_search.rb) Find given substring within given string, without using built-in substr
  - _PARTIALLY SOLVED (37.5%)_ Get all permutations of given string
  - _PARTIALLY SOLVED (90%)_ Evaluate prefix expressions
  - _PARTIALLY SOLVED (40%)_ Find longest common subsequence
